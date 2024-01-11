@@ -1,5 +1,4 @@
-# My gif
-! Gif.gif
+
 
 - 👋 Hi, I’m @Akashbana
 - 🌱 I’m currently learning ML/DL
