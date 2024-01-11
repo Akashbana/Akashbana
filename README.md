@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Akashbana
-- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning ML/DL
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me www.linkedin.com/in/akash-bana
+- 📫 Reach me - www.linkedin.com/in/akash-bana
   
   
 
